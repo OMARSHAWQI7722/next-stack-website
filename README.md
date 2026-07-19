@@ -82,10 +82,10 @@ A community of students passionate about technology, innovation, and software de
 ## 📫 Contact
 
 Email:
-hello@nextstack.dev
+nextstack3zero@gmail.com
 
 GitHub:
-https://github.com/yourusername
+https://github.com/OMARSHAWQI7722
 
 ---
 
